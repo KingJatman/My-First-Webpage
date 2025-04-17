@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: blue;
+    margin: 20px;
+    padding: 20px;
+}
+
+h1,h2,h3 {
+    color: brown
+  }
+
+  p,ul {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding: 10px;
+  }
+
+  img {
+    width: 60%;         
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;  
+  }
